@@ -7,7 +7,7 @@ title: PLA25 Blog
 subtitle:
 description:
 author: PLA25
-language: nl
+language: en
 timezone: Europe/Amsterdam
 
 # URL
@@ -73,7 +73,13 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: cactus-dark
+theme: apollo
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
