@@ -1,6 +1,6 @@
 ---
 title: Week 2
-date: 2018-02-12
+date: 2018-02-18
 tags:
 ---
 

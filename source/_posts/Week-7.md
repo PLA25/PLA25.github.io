@@ -1,7 +1,5 @@
-+---
-+title: Week 7
-+date: 2018-04-15
-+tags:
-+---
-+
-+Todo.
+---
+title: Week 7
+date: 2018-03-25
+tags:
+---
